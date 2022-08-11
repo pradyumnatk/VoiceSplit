@@ -1,0 +1,3 @@
+﻿noise_utterance,emb_utterance,clean_utterance,clean2_utterance
+datasets/LibriSpeech/audios_demo/PradyuAudioTest/Noisy1.wav,datasets/LibriSpeech/audios_demo/PradyuAudioTest/Ref1.wav,datasets/LibriSpeech/audios_demo/PradyuAudioTest/Clean1.wav,datasets/LibriSpeech/audios_demo/PradyuAudioTest/Clean2.wav
+datasets/LibriSpeech/audios_demo/PradyuAudioTest/Noisy2.wav,datasets/LibriSpeech/audios_demo/PradyuAudioTest/Ref2.wav,datasets/LibriSpeech/audios_demo/PradyuAudioTest/Clean3.wav,datasets/LibriSpeech/audios_demo/PradyuAudioTest/Clean4.wav
